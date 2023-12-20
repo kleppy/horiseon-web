@@ -4,6 +4,10 @@
 
 This repository is designed to hold the front end facing web content and assets for Horiseon's Company website.
 
+![Alt text](www/assets/images/horiseon-screenshot.jpg?raw=true "Horiseon frontpage")
+#### stackoverflow 
+
+
 ## Usage
 
 folders represent subdomains underneath each you will find an index.html and the subdomains respective assets. 
