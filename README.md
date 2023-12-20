@@ -4,7 +4,7 @@
 
 This repository is designed to hold the front end facing web content and assets for Horiseon's Company website.
 
-![Alt text](www/assets/images/horiseon-screenshot.jpg?raw=true "Horiseon frontpage") 
+![Alt text](assets/images/horiseon-screenshot.jpg?raw=true "Horiseon frontpage") 
 source: stackoverflow 
 
 
