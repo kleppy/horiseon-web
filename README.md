@@ -16,7 +16,7 @@ The index.html at the head of the repository serves as a directory for accessing
 
 ## Credits
 
-[Coding BootCamp Github]https://github.com/coding-boot-camp/urban-octo-telegram 
+[Coding BootCamp Github](https://github.com/coding-boot-camp/urban-octo-telegram)
 
 ## License
 
