@@ -10,8 +10,8 @@ source: stackoverflow
 
 ## Usage
 
-folders represent subdomains underneath each you will find an index.html and the subdomains respective assets. 
-The ** index.html **  at the head of the repository serves as a directory for accessing all underlying subdomains. All 
+folders represent subdomains underneath each you will find an **index.html** and the subdomains respective assets. 
+The  **index.html**  at the head of the repository serves as a directory for accessing all underlying subdomains. All 
 design criteria can be tracked through issues linked to this repository. 
 
 
